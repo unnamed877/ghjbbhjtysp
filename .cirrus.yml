@@ -3,7 +3,7 @@ env:
     CIRRUS_WORKING_DIR: "/tmp/ci"
 
 task:
-    name: hgdvbjptysp
+    name: ghbgujtysp
     timeout_in: 120m
     container:
       image: ubuntu:rolling
